@@ -1,0 +1,43 @@
+#traffic-black{
+  background-color: black;
+  width: 20px;
+  height: 150px;
+  margin: auto;
+}
+
+.semaforo{
+  background-color: black;
+  width: 150px;
+  height: 400px;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 20px;
+}
+
+.light-red{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin: auto;
+}
+
+.light-yellow{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin: auto;
+}
+.light-green{
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+margin: auto;
+
+}
+.selected{
+      box-shadow: 0 0 30px #FFFFFF;
+
+}
